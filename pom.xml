@@ -6,9 +6,9 @@
   	<packaging>war</packaging>
   
   	<scm>
-		<connection>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4Json.git</connection>
-		<url>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4Json.git</url>
-		<developerConnection>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4Json.git</developerConnection>
+		<connection>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4File.git</connection>
+		<url>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4File.git</url>
+		<developerConnection>scm:git:git@github.com:patrickvanamstel/Jersey1.8Spring3.1Junit4File.git</developerConnection>
   	</scm>
   
 	<properties>
